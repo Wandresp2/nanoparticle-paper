@@ -1,0 +1,109 @@
+rep,class,group,alg,diam,pdi
+1,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-3.5,156.7,0.096
+1,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-3.5,153.7,0.026
+1,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-3.5,156.1,0.1
+2,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-3.5,146.7,0.086
+2,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-3.5,148.3,0.056
+2,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-3.5,145.5,0.099
+3,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-3.5,179,0.337
+3,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-3.5,173.6,0.292
+3,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-3.5,177.3,0.261
+1,Lipid+AC0-based Nanoparticles,Google,Bard,99.69,0.125
+1,Lipid+AC0-based Nanoparticles,Google,Bard,99.8,0.11
+1,Lipid+AC0-based Nanoparticles,Google,Bard,98.42,0.128
+2,Lipid+AC0-based Nanoparticles,Google,Bard,95.83,0.129
+2,Lipid+AC0-based Nanoparticles,Google,Bard,95.65,0.076
+2,Lipid+AC0-based Nanoparticles,Google,Bard,95.04,0.157
+3,Lipid+AC0-based Nanoparticles,Google,Bard,82.36,0.097
+3,Lipid+AC0-based Nanoparticles,Google,Bard,90.82,0.177
+3,Lipid+AC0-based Nanoparticles,Google,Bard,80.15,0.071
+1,Lipid+AC0-based Nanoparticles,MicrofluidicML,MicrofluidicML,82.87,0.072
+1,Lipid+AC0-based Nanoparticles,MicrofluidicML,MicrofluidicML,82.92,0.034
+1,Lipid+AC0-based Nanoparticles,MicrofluidicML,MicrofluidicML,81.93,0.042
+2,Lipid+AC0-based Nanoparticles,MicrofluidicML,MicrofluidicML,92.61,0.072
+2,Lipid+AC0-based Nanoparticles,MicrofluidicML,MicrofluidicML,91.35,0.076
+2,Lipid+AC0-based Nanoparticles,MicrofluidicML,MicrofluidicML,90.62,0.085
+3,Lipid+AC0-based Nanoparticles,MicrofluidicML,MicrofluidicML,96.34,0.042
+3,Lipid+AC0-based Nanoparticles,MicrofluidicML,MicrofluidicML,94.24,0.058
+3,Lipid+AC0-based Nanoparticles,MicrofluidicML,MicrofluidicML,93.16,0.067
+1,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-4o,74.92,0.16
+1,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-4o,74.22,0.177
+1,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-4o,73.99,0.156
+2,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-4o,74.57,0.08
+2,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-4o,75.29,0.046
+2,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-4o,72.8,0.111
+3,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-4o,75.52,0.125
+3,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-4o,75.56,0.119
+3,Lipid+AC0-based Nanoparticles,OpenAI,GPT+AC0-4o,75.41,0.112
+1,Lipid+AC0-based Nanoparticles,Google,Gemini Flash 2.0,87.48,0.16
+1,Lipid+AC0-based Nanoparticles,Google,Gemini Flash 2.0,93.41,0.118
+1,Lipid+AC0-based Nanoparticles,Google,Gemini Flash 2.0,97.95,0.184
+2,Lipid+AC0-based Nanoparticles,Google,Gemini Flash 2.0,78.26,0.108
+2,Lipid+AC0-based Nanoparticles,Google,Gemini Flash 2.0,81.9,0.111
+2,Lipid+AC0-based Nanoparticles,Google,Gemini Flash 2.0,89.68,0.023
+3,Lipid+AC0-based Nanoparticles,Google,Gemini Flash 2.0,75.4,0.132
+3,Lipid+AC0-based Nanoparticles,Google,Gemini Flash 2.0,76.18,0.136
+3,Lipid+AC0-based Nanoparticles,Google,Gemini Flash 2.0,80.39,0.136
+1,Lipid+AC0-based Nanoparticles,DeepSeek,DeepSeek+AC0-V3,76.82,0.21
+1,Lipid+AC0-based Nanoparticles,DeepSeek,DeepSeek+AC0-V3,76.88,0.189
+1,Lipid+AC0-based Nanoparticles,DeepSeek,DeepSeek+AC0-V3,79.74,0.196
+2,Lipid+AC0-based Nanoparticles,DeepSeek,DeepSeek+AC0-V3,77.91,0.067
+2,Lipid+AC0-based Nanoparticles,DeepSeek,DeepSeek+AC0-V3,79.07,0.139
+2,Lipid+AC0-based Nanoparticles,DeepSeek,DeepSeek+AC0-V3,79.5,0.058
+3,Lipid+AC0-based Nanoparticles,DeepSeek,DeepSeek+AC0-V3,76.54,0.117
+3,Lipid+AC0-based Nanoparticles,DeepSeek,DeepSeek+AC0-V3,76.27,0.125
+3,Lipid+AC0-based Nanoparticles,DeepSeek,DeepSeek+AC0-V3,76.62,0.146
+1,PLGA Nanoparticles,OpenAI,GPT+AC0-3.5,1646,1
+1,PLGA Nanoparticles,OpenAI,GPT+AC0-3.5,1462,1
+1,PLGA Nanoparticles,OpenAI,GPT+AC0-3.5,1074,1
+2,PLGA Nanoparticles,OpenAI,GPT+AC0-3.5,1442,1
+2,PLGA Nanoparticles,OpenAI,GPT+AC0-3.5,724.1,0.715
+2,PLGA Nanoparticles,OpenAI,GPT+AC0-3.5,722.6,0.742
+3,PLGA Nanoparticles,OpenAI,GPT+AC0-3.5,1075,1
+3,PLGA Nanoparticles,OpenAI,GPT+AC0-3.5,790.7,0.897
+3,PLGA Nanoparticles,OpenAI,GPT+AC0-3.5,792.7,0.926
+1,PLGA Nanoparticles,Google,Bard,97.37,0.193
+1,PLGA Nanoparticles,Google,Bard,96.79,0.218
+1,PLGA Nanoparticles,Google,Bard,96.13,0.22
+2,PLGA Nanoparticles,Google,Bard,98.3,0.221
+2,PLGA Nanoparticles,Google,Bard,98.18,0.208
+2,PLGA Nanoparticles,Google,Bard,97.68,0.229
+3,PLGA Nanoparticles,Google,Bard,100.9,0.204
+3,PLGA Nanoparticles,Google,Bard,98.32,0.199
+3,PLGA Nanoparticles,Google,Bard,98.52,0.206
+1,PLGA Nanoparticles,MicrofluidicML,MicrofluidicML,89.99,0.243
+1,PLGA Nanoparticles,MicrofluidicML,MicrofluidicML,89.02,0.231
+1,PLGA Nanoparticles,MicrofluidicML,MicrofluidicML,88.61,0.204
+2,PLGA Nanoparticles,MicrofluidicML,MicrofluidicML,97.9,0.243
+2,PLGA Nanoparticles,MicrofluidicML,MicrofluidicML,98.44,0.23
+2,PLGA Nanoparticles,MicrofluidicML,MicrofluidicML,99.01,0.235
+3,PLGA Nanoparticles,MicrofluidicML,MicrofluidicML,104.4,0.214
+3,PLGA Nanoparticles,MicrofluidicML,MicrofluidicML,103.7,0.19
+3,PLGA Nanoparticles,MicrofluidicML,MicrofluidicML,104.7,0.173
+1,PLGA Nanoparticles,OpenAI,GPT+AC0-4o,163.3,0.168
+1,PLGA Nanoparticles,OpenAI,GPT+AC0-4o,150.7,0.173
+1,PLGA Nanoparticles,OpenAI,GPT+AC0-4o,147.4,0.17
+2,PLGA Nanoparticles,OpenAI,GPT+AC0-4o,142.8,0.198
+2,PLGA Nanoparticles,OpenAI,GPT+AC0-4o,142.3,0.167
+2,PLGA Nanoparticles,OpenAI,GPT+AC0-4o,141.9,0.169
+3,PLGA Nanoparticles,OpenAI,GPT+AC0-4o,145,0.183
+3,PLGA Nanoparticles,OpenAI,GPT+AC0-4o,138.7,0.179
+3,PLGA Nanoparticles,OpenAI,GPT+AC0-4o,140.8,0.206
+1,PLGA Nanoparticles,Google,Gemini Flash 2.0,115.9,0.182
+1,PLGA Nanoparticles,Google,Gemini Flash 2.0,112.6,0.177
+1,PLGA Nanoparticles,Google,Gemini Flash 2.0,111.5,0.169
+2,PLGA Nanoparticles,Google,Gemini Flash 2.0,109.5,0.043
+2,PLGA Nanoparticles,Google,Gemini Flash 2.0,109.6,0.132
+2,PLGA Nanoparticles,Google,Gemini Flash 2.0,109.1,0.088
+3,PLGA Nanoparticles,Google,Gemini Flash 2.0,118.5,0.017
+3,PLGA Nanoparticles,Google,Gemini Flash 2.0,117.7,0.05
+3,PLGA Nanoparticles,Google,Gemini Flash 2.0,118.5,0.086
+1,PLGA Nanoparticles,DeepSeek,DeepSeek+AC0-V3,90.2,0.225
+1,PLGA Nanoparticles,DeepSeek,DeepSeek+AC0-V3,89.47,0.209
+1,PLGA Nanoparticles,DeepSeek,DeepSeek+AC0-V3,89.94,0.215
+2,PLGA Nanoparticles,DeepSeek,DeepSeek+AC0-V3,89.71,0.215
+2,PLGA Nanoparticles,DeepSeek,DeepSeek+AC0-V3,89.5,0.228
+2,PLGA Nanoparticles,DeepSeek,DeepSeek+AC0-V3,90.61,0.218
+3,PLGA Nanoparticles,DeepSeek,DeepSeek+AC0-V3,87.33,0.22
+3,PLGA Nanoparticles,DeepSeek,DeepSeek+AC0-V3,88.05,0.244
+3,PLGA Nanoparticles,DeepSeek,DeepSeek+AC0-V3,90.38,0.243

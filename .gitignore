@@ -1,0 +1,28 @@
+# Entorno de Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Archivos GENERADOS al ejecutar los notebooks (no se versionan; se regeneran ejecutándolos en orden)
+# - datos_procesados/: lo genera 00_preparacion_datos.ipynb
+# - resultados/: lo generan Parte_B, Parte_C, Parte_D y 00R_referencia_autor (incluye workdir/ de la corrida R)
+datos_procesados/
+resultados/
+
+# Presentaciones: los .pptx se generan con los scripts de Node (node build_pptx.js / node build_esquema.js)
+presentacion/node_modules/
+presentacion/*.pptx
+
+# Exportaciones de conversaciones de Claude Code (contexto de trabajo, no forman parte del proyecto)
+*-local-command-caveat*.txt
+
+# Archivos temporales de Office / sistema
+~$*
+.DS_Store
+Thumbs.db
+*.log

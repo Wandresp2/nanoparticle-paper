@@ -1,0 +1,3 @@
+# Los notebooks se guardan en git SIN salidas (filtro "nbstrip"; configuración en README, sección "Repositorio").
+# Si el filtro no está configurado, git lo ignora y guarda el notebook tal cual.
+*.ipynb filter=nbstrip
